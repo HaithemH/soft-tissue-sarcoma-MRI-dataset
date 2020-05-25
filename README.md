@@ -11,7 +11,7 @@ One key advantage of MRI is to better discriminate soft tis- sues, added to its 
                       LPS    676 | 457  |  219 |   1352
                       LMS    472 | 409  |  63  |   944
                       
-     Download link: https://mega.nz/file/f5E2DSxJ#BnmLp5_AMFSdnh0eq9HPtfcYpnaxMUOxjHKSbjoqI-A      
+     Download link: https://drive.google.com/open?id=120dgtM6L3e9Ttlhcr5_LLQrlOiuHw-gt     
      
      Cite as: 	Hermessi,H., Mourali, O., Zagrouba, E. (2019), Deep feature learning for soft tissue sarcoma classification in MR images via transfer learning. Expert Systems With Applications, 120, 116–127.
      https://doi.org/10.1016/j.eswa.2018.11.025
